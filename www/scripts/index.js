@@ -21,6 +21,7 @@
 
         //alert("Bienvenido");
         window.open('..//AmericaEconomiaEdicion15.pdf', '_system', 'location=no');
+        window.open('///android_asset/..//AmericaEconomiaEdicion15.pdf ', '_system', 'location=no');
         //location.reload();
         // TODO: Cordova se ha cargado. Haga aquí las inicializaciones que necesiten Cordova.
     
