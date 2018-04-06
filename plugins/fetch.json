@@ -6,5 +6,14 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "cordova-plugin-document-viewer": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sitewaerts/cordova-plugin-document-viewer",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }
